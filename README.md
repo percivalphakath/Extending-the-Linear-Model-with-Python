@@ -7,7 +7,7 @@
 </ul>
 
 ## Why?
-While studying General Linear Models, I was frustrated that I was learning all this knowledge using R, but most companies prefer Python. The world of Data Science is constantly changing; R is the best language for Statistical Analysis; however, Python is a universal programming language, which is why it is the most preferred language for collaboration. This project aims to help students use this book to understand Python.
+As I delved into learning about General Linear Models, I found myself feeling frustrated that while I was gaining a deep understanding of the topic through R, many companies and organizations seemed to prefer Python as their language of choice. While R remains the language of choice for statistical analysis, the constantly evolving field of Data Science demands versatility and collaboration, making Python the most widely preferred language. With this project, my aim is to bridge the gap between the R-focused teachings of Julian J. Faraway's book and the need for students to understand these concepts using Python.
 
 ## How?
-Every month starting from January 2023, I will upload a translated notebook version of each chapter.Therefore, the best way to use these notebooks is to use them in conjunction with the book. Please remember that every time you want to access a dataset specific to this book, you will need to download data from the link provide above to Julian J. Faraway's repo.
+Starting from January 2023, I plan to upload a translated notebook version of each chapter of the book on a monthly basis. It is recommended to use these notebooks in conjunction with the book itself. However, it is important to note that when working with datasets specific to this book, you will need to download the data from the link provided in Julian J. Faraway's repository.
