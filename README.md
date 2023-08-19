@@ -4,6 +4,9 @@
 <li> Title of the book: Extending the Linear Model with R: Generalized Linear, Mixed Effects and Nonparametric Regression Models.</li>
 <li> Author : Julian J. Faraway </li>
 <li> Edition : 2nd </li>
+  
+</p> <p> To explore more about the book, visit the official website at: https://julianfaraway.github.io/faraway/ELM/ </p>
+  <img src=https://julianfaraway.github.io/faraway/ELM/elm2.jpg>
 </ul>
 
 ## Why am I doing this project?
