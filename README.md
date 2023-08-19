@@ -4,8 +4,10 @@
 <li> Title of the book: Extending the Linear Model with R: Generalized Linear, Mixed Effects and Nonparametric Regression Models.</li>
 <li> Author : Julian J. Faraway </li>
 <li> Edition : 2nd </li>
+  
+</p> <p> To explore more about the book, visit the official website at: https://julianfaraway.github.io/faraway/ELM/ </p>
+  <img src=https://julianfaraway.github.io/faraway/ELM/elm2.jpg>
 </ul>
-https://julianfaraway.github.io/faraway/ELM/
 
 ## Why am I doing this project?
 While R remains a dominant force in statistical analysis, Python's versatility, adaptability, and collaborative nature have made it the go-to language for data science in many companies and organizations. By offering Python implementations of the R code presented in the book, I provide a seamless transition for those who prefer Python, enabling them to leverage their existing skills and work effectively within a team environment.
