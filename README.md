@@ -16,3 +16,9 @@ While R remains a dominant force in statistical analysis, Python's versatility, 
 To get started, I recommend using the notebooks in this repository alongside Julian J. Faraway's book. However, please note that when working with datasets specific to the book, you can either download them from the link provided in Julian J. Faraway's repository or conveniently access them directly from my repository.
 
 Join me on this exciting journey of extending the linear model with "Python". Let's unlock the power of generalized linear models, mixed effects, and nonparametric regression models using the language of choice for modern Data Science - Python!
+
+## FAQ
+<ul>
+<li> If you do get one of these two errors "ImportError" or "ModuleNotFoundError" - Means that Python cannot find the package that you are trying to import to fix the error, run "pip install <package_name>"
+</li>
+</ul>
