@@ -19,6 +19,6 @@ Join me on this exciting journey of extending the linear model with "Python". Le
 
 ## FAQ
 <ul>
-<li> What is the meaning of the two errors "ImportError" or "ModuleNotFoundError" ? - Means that Python cannot find the package that you are trying to import to fix the error, run "pip install <package_name>"
+<li> What is the meaning of the two errors "ImportError" or "ModuleNotFoundError"? - Means that Python cannot find the package that you are trying to import to fix the error, run "pip install package_name"
 </li>
 </ul>
