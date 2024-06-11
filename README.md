@@ -1,4 +1,4 @@
-# Extending the Linear Model with R: Translating R Code into Python Code.
+# Extending the Linear Model with Python: Translating R Code into Python Code.
 <ul> 
 <li> Action: Translate the R code into the Python code of the following book</li>
 <li> Title of the book: Extending the Linear Model with R: Generalized Linear, Mixed Effects and Nonparametric Regression Models.</li>
